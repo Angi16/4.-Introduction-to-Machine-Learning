@@ -11,15 +11,15 @@
 
 
 ### Datasets
- Simple Classification-1,2 : fruit.txt
- Build Recommender System in an Hour(https://catalog.data.gov/dataset?res_format=CSV&tags=book)
- Classifier Visualization](https://archive.ics.uci.edu/ml/datasets/mushroom)
- Linear Regresssion(http://homepage.divms.uiowa.edu/~rdecook/stat6220/datasets.html)
- Logistic Regresssion(https://archive.ics.uci.edu/ml/datasets/bank+marketing)
- machine learning spaCy(https://github.com/aqibsaeed/Research-Paper-Categorization/blob/master/dataset.csv)
- scatter_plots(http://ubdc.gla.ac.uk/he/dataset/myhealthlondon-indicators)
- Softmax function()
- Supervised Learning - Part I, Part II(fruit.txt)
- [Unsupervised Learning](http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29)
+ * Simple Classification-1,2 : fruit.txt
+ * Build Recommender System in an Hour(https://catalog.data.gov/dataset?res_format=CSV&tags=book)
+ * Classifier Visualization](https://archive.ics.uci.edu/ml/datasets/mushroom)
+ * Linear Regresssion(http://homepage.divms.uiowa.edu/~rdecook/stat6220/datasets.html)
+ * Logistic Regresssion(https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+ * machine learning spaCy(https://github.com/aqibsaeed/Research-Paper-Categorization/blob/master/dataset.csv)
+ * scatter_plots(http://ubdc.gla.ac.uk/he/dataset/myhealthlondon-indicators)
+ * Softmax function()
+ * Supervised Learning - Part I, Part II(fruit.txt)
+ * [Unsupervised Learning](http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29)
 
 
