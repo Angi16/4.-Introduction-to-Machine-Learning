@@ -1,7 +1,7 @@
 # 4.-Introduction-to-Machine-Learning
 
 ## Theory:
-1. [Machine Learning Coursera by Andrew Ng]('https://www.coursera.org/learn/machine-learning')
+1. [Machine Learning Coursera by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 2. [Introduction to machine learning- Udacity]('https://in.udacity.com/course/intro-to-machine-learning--ud120-india')
 
 ##Practice:
